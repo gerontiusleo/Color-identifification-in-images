@@ -1,2 +1,7 @@
-# Color-identifification-in-images
- This program helps you to identify the colors in an image using KMeans algorithm.
+#INTERN : GERONTIUS LEO L
+
+# IOT AND COMPUTER VISION VISION intern at 'The Sparks foundation'
+
+TASK-2 : Colour identification in images.
+
+ 
